@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @veera-ganesh
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning about and enrolled in a grad school
+- 🌱 I’m currently learning about Machine Learning and enrolled in a grad school
 - 💞️ I’m looking to collaborate on DS projects
 - 📫 How to reach me - veeraganesh30497@gmail.com
 
