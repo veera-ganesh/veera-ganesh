@@ -1,22 +1,24 @@
 # Hi there, I'm Veera Ganesh Ponugoti 👋
 
-### Analytics Engineer & Data Science Professional 
-📍 Based in Richmond, VA
+### Data Scientist | Generative AI & LLM Orchestration
+📍 United States *(Open to Relocation)*
 
-I specialize in building scalable data architectures, optimizing cloud data warehouses, and engineering stateful LLM orchestration frameworks. I bridge the gap between heavy-duty data engineering and intelligent generative AI systems.
+I am a Data Science professional specializing in building stateful LLM orchestration frameworks, training predictive machine learning models, and optimizing scalable cloud data architectures. I bridge the gap between advanced statistical modeling and intelligent generative AI systems.
 
 ---
 
 ### 🛠️ Core Stack & Expertise
 
-*   **Data & Analytics Engineering:** SQL (Advanced), Python, dbt, Airflow, Data Pipelines
-*   **Cloud Data Platforms:** Snowflake, Databricks, AWS (Bedrock, S3, EC2, IAM)
+*   **Data & Analytics Engineering:** SQL (Advanced), Python, dbt, Airflow, Data Pipelines, Tableau
+*   **Cloud Data Platforms:** Snowflake, Databricks, AWS (Bedrock, S3, EC2, IAM, Lambda)
 *   **AI & Orchestration:** LangGraph, LangChain, LLM-as-a-Judge Evals, OpenTelemetry (Arize Phoenix)
 *   **Machine Learning:** XGBoost, Scikit-Learn, Text Embeddings, Predictive Modeling
+*   **Professional Credentials:** Certified Apache Airflow [Fundamentals](https://www.credly.com/badges/d651c37e-593e-42d4-9762-7fbe9821648f/linked_in_profile) / [Associate](https://www.credly.com/badges/40d127fe-a921-4a35-9168-8a9b657088fe/linked_in?t=tb1qa2) 🎖️
+*   **Education:** M.S. in Data Science — Florida State University 🎓
 
 ---
 
-### 🚀 Key Projects (In Progress / Featured)
+### 🚀 Key Projects (Featured)
 
 #### 🤖 Hybrid ML + GenAI Customer Exception Triage Platform
 *Built a dual-layer automation engine designed to parse and resolve enterprise-scale volume safely.*
@@ -26,9 +28,5 @@ I specialize in building scalable data architectures, optimizing cloud data ware
 *   **Observability:** Integrated production-grade tracing and token-cost monitoring via **OpenTelemetry & Arize Phoenix**.
 
 ---
-
-### 📈 What I'm Focused On Natively
-*   Architecting scalable, stateful AI agents that integrate directly with enterprise cloud warehouses.
-*   FinOps optimization for multi-tier machine learning workflows.
 
 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/veera-ganesh-ponugoti/)
