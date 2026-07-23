@@ -1,6 +1,6 @@
 # Hi there, I'm Veera Ganesh Ponugoti 👋
 
-### Data Scientist | Generative AI & LLM Orchestration
+### Data Scientist | Generative AI & Agentic Systems Orchestration
 📍 United States *(Open to Relocation)*
 
 I am a Data Science professional specializing in building stateful LLM orchestration frameworks, training predictive machine learning models, and optimizing scalable cloud data architectures. I bridge the gap between advanced statistical modeling and intelligent generative AI systems.
@@ -29,4 +29,21 @@ I am a Data Science professional specializing in building stateful LLM orchestra
 
 ---
 
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/veera-ganesh-ponugoti/)
+### 🚀 Key Projects (Featured)
+#### 🤖 1. Hybrid ML + GenAI Customer Exception Triage Platform
+Built a dual-layer automation engine to parse and resolve enterprise-scale complaint volume cost-effectively.
+*   **The Gatekeeper:** Engineered a local XGBoost classifier using open-source dense vector embeddings (all-MiniLM-L6-v2, 384-dim) to instantly triage 90% of high-confidence, routine corporate complaints at zero LLM cost.
+*   **The GenAI Engine:** Routed low-confidence anomalies into a stateful LangGraph pipeline powered by AWS Bedrock (Claude 3.5 Sonnet) for deep semantic analysis, RAG context retrieval, and automated response drafting.
+*   **Human-in-the-Loop Safety:** Implemented state memory checkpointers to freeze execution via interrupt gates on high-risk corporate anomalies, requiring human manager sign-off.
+*   **Observability:** Integrated production-grade OpenTelemetry tracing and token-cost monitoring via Arize Phoenix.
+
+#### 🛍️ 2. Stateful Retail Customer Support AI Agent Architecture
+Engineered a real-time, multi-turn conversational agent with deterministic tool execution and hard guardrails.
+*   **Deterministic Agent Orchestration:** Built a multi-turn support agent using LangGraph and AWS Bedrock (Nova Lite) to execute order tracking, return label generation, and escalation workflows.
+*   **Two-Tier Intent Guardrails:** Implemented a zero-shot intent router using lightweight LLM classification and Pydantic structured output to intercept out-of-scope queries ($<300\text{ms}$) while preserving ongoing workflow state using custom flags (awaiting_input).
+*   **Tool-Level Idempotency & Persistence:** Designed Python-level edge interceptors and AWS RDS PostgreSQL (PostgresSaver) connection pools to eliminate infinite tool loops (e.g., duplicate support tickets) and persist state across user sessions.
+*   **Context Optimization & Tracing:** Mitigated context drift using dynamic sliding-window message trimming (trim_messages) and instrumented end-to-end tracing in Arize Phoenix for turn-by-turn latency and token usage tracking.
+
+---
+
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/veera-ganesh-ponugoti/) | [E-mail](mailto:veeraganesh30497@gmail.com)
